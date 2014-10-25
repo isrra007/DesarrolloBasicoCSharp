@@ -1,0 +1,6 @@
+c:\users\isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\AppConsola1\bin\Debug\AppConsola1.exe.config
+c:\users\isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\AppConsola1\bin\Debug\AppConsola1.exe
+c:\users\isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\AppConsola1\bin\Debug\AppConsola1.pdb
+c:\users\isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\AppConsola1\obj\Debug\AppConsola1.csprojResolveAssemblyReference.cache
+c:\users\isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\AppConsola1\obj\Debug\AppConsola1.exe
+c:\users\isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\AppConsola1\obj\Debug\AppConsola1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\EstructurasControl\bin\Debug\EstructurasControl.exe.config
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\EstructurasControl\bin\Debug\EstructurasControl.exe
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\EstructurasControl\bin\Debug\EstructurasControl.pdb
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\EstructurasControl\obj\Debug\EstructurasControl.csprojResolveAssemblyReference.cache
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\EstructurasControl\obj\Debug\EstructurasControl.exe
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\EstructurasControl\obj\Debug\EstructurasControl.pdb

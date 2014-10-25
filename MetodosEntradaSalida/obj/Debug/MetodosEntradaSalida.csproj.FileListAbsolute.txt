@@ -1,0 +1,5 @@
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\MetodosEntradaSalida\bin\Debug\MetodosEntradaSalida.exe.config
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\MetodosEntradaSalida\bin\Debug\MetodosEntradaSalida.exe
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\MetodosEntradaSalida\bin\Debug\MetodosEntradaSalida.pdb
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\MetodosEntradaSalida\obj\Debug\MetodosEntradaSalida.exe
+C:\Users\Isrrael\documents\visual studio 2013\Projects\CSharp\Consola\Consola\MetodosEntradaSalida\obj\Debug\MetodosEntradaSalida.pdb
